@@ -3,7 +3,7 @@
 ## Identificação, proposta e solução.
 - Joga Bonito tem o objetivo de resolver os problemas de quem está a procura de uma partida amistosa(ou mais competitiva) de futebol, em um sistema simples e direto.
 
-- A ideia facilita o trabalho de procurar uma partida, seja no dia ou daqui a uma semana, proporcionando mais flexibilidade em suas exigências, podendo também escolher partidas com níveis mais intesos de jogabilidade.
+- A ideia facilita o trabalho de procurar uma partida, seja no dia ou daqui a uma semana, proporcionando mais flexibilidade em suas exigências, podendo também escolher partidas com níveis mais intensos de jogabilidade.
 
 - Na prática, basta o usuário escolher entre organizar uma partida ou ingressar em uma partida disponível. Nesse sentido, a solução proposta resolve o problema da necessidade de achar uma partida seja em apuros ou não, como também, atender seu ritmo de jogo preferível.
 
@@ -18,6 +18,9 @@
 
 - Testes unitários serão implementados tanto no front-end quanto no back-end para melhor cobertura de qualidade do projeto, utilizando o SonarQube para melhoria da qualidade nos cenários dos testes unitários.
 
+## Restrições
+
+- O sistema não fará a parte de pagamentos das quadras alugadas, seja do organizador da partida com o dono da quadra, ou o jogador que foi aceito pelo organizador da partida.
 
 ## C4 Model
 
@@ -51,12 +54,15 @@
 - Como o sistema tem a intenção de ser algo prático e simples, a manutenibilidade pode ser considerada no sistema de filas, dependendo da quantidade de usuários esperando uma partida e quantos se encaixariam na mesma filtragem.
   
 
-## Requisitos e casos de uso#
+## Requisitos e casos de uso
 
 - Link
 
 ## Stack
 
-- C#
-- VueJs
-- PostgreSQL
+- BE: C# e .Net Core
+- FE:  VueJs 3
+- Databse: PostgreSQL
+- Testes: Selenium
+- Qualidade nos cenários de testes: SonarQube
+- Observalidade: Datadog
