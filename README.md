@@ -61,7 +61,7 @@
 ## Stack
 
 - BE: C# e .Net Core
-- FE:  VueJs 3
+- FE:  VueJs 3 e Tailwind CSS
 - Databse: PostgreSQL
 - Testes: Selenium
 - Qualidade nos cenários de testes: SonarQube
