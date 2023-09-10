@@ -8,7 +8,7 @@
 - Na prática, basta o usuário escolher entre organizar uma partida ou ingressar em uma partida disponível. Nesse sentido, a solução proposta resolve o problema da necessidade de achar uma partida seja em apuros ou não, como também, atender seu ritmo de jogo preferível.
 
 
-##Escopo
+## Escopo
 
 **Desenvolvimento**
 
@@ -19,12 +19,12 @@
 - Testes unitários serão implementados tanto no front-end quanto no back-end para melhor cobertura de qualidade do projeto, utilizando o SonarQube para melhoria da qualidade nos cenários dos testes unitários.
 
 
-##C4 Model
+## C4 Model
 
 - Link
 
 
-##Trade-off
+## Trade-off
 
 **Portabilidade**
 
@@ -51,11 +51,11 @@
 - Como o sistema tem a intenção de ser algo prático e simples, a manutenibilidade pode ser considerada no sistema de filas, dependendo da quantidade de usuários esperando uma partida e quantos se encaixariam na mesma filtragem.
   
 
-##Requisitos e casos de uso#
+## Requisitos e casos de uso#
 
 - Link
 
-##Stack
+## Stack
 
 - C#
 - VueJs
