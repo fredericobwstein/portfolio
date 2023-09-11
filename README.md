@@ -54,9 +54,9 @@
 - Como o sistema tem a intenção de ser algo prático e simples, a manutenibilidade pode ser considerada no sistema de filas, dependendo da quantidade de usuários esperando uma partida e quantos se encaixariam na mesma filtragem.
   
 
-## Requisitos
+## Requisitos e Casos de Uso
 
-- [Acesse este caminho para ser redirecionado aos requisitos.](files/requirements-nonrequirementsl.md)
+- [Acesse este caminho para ser redirecionado aos requisitos e os casos de uso.](files/requirements-nonrequirementsl.md)
 
 ## Stack
 
