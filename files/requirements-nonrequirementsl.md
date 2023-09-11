@@ -27,6 +27,15 @@
 
 ## Requisitos não funcionais
 
+**Disponibilidade:**
+- O sistema deve estar a todo momento disponível para o usuário para garantir o início da partida dentro do cronograma do usuário.
+
+**Confiabilidade:**
+- O sistema deve manter a organização das partidas de acordo como o usuário organizador definiu, e a presença confirmada do usuário jogador.
+
+**Compatibilidade:**
+- O sistema web deve ter sua renderização compatível a todos os dispositivos, sendo totalmente responsivo.
+
 **Desempenho:**
 - As pesquisas de acordo com a filtragem do usuário jogador devem ser retornar a tela de forma rápida, assim como as partidas dos organizadores devem aparecer como disponível após configurá-la. O sistema de filas também deve se comportar de forma rápida e eficaz.
 
@@ -36,11 +45,4 @@
 **Usabilidade:**
 - Com a usabilidade fácil e direta, as funcionalidades do sistema fornecem rápido entendimento da solução proposta, sem necessitar de treinamento para uso.
 
-**Disponibilidade:**
-- O sistema deve estar a todo momento disponível para o usuário para garantir o início da partida dentro do cronograma do usuário.
 
-**Confiabilidade:**
-- O sistema deve manter a organização das partidas de acordo como o usuário organizador definiu, e a presença confirmada do usuário jogador.
-
-**Compatibilidade:**
-- O sistema web deve ter sua renderização compatível a todos os dispositivos, sendo totalmente responsivo.
