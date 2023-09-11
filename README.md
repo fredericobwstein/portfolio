@@ -12,7 +12,7 @@
 
 **Desenvolvimento**
 
-- O projeto será um sistema web, desenvolvido com C# e Vue 3. C# para desenvolvimento da API que retornará informações necessárias para realizar as funcionalidades das telas feitas com o Vue 3, e também para consumir a API do Google Maps, para filtragrem e visualização dos endereços da cidade em que o usuário utilizará para busca da partida.
+- O projeto será um sistema web, desenvolvido com C# e Vue 3. C# para desenvolvimento da API que retornará informações necessárias para realizar as funcionalidades das telas feitas com o Vue 3, e também para consumir a API do Google Maps, para filtragrem e visualização dos endereços da cidade em que o usuário utilizará para busca da partida. Será desenvolvimento um sistema de fila para procura de partidas, caso o usuário não encontrar no momento da filtragem.
 
 **Qualidade do produto**
 
