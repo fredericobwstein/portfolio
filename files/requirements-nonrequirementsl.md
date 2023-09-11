@@ -45,4 +45,7 @@
 **Usabilidade:**
 - Com a usabilidade fácil e direta, as funcionalidades do sistema fornecem rápido entendimento da solução proposta, sem necessitar de treinamento para uso.
 
+  ## Casos de uso
+  [Casos de uso](files/casos-de-uso.png)
+
 
