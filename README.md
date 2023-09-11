@@ -58,6 +58,9 @@
 
 - [Acesse este caminho para ser redirecionado aos requisitos e os casos de uso.](files/requirements-nonrequirementsl.md)
 
+##Modelagem por funcionalidade
+- Com o próprio GitHub, na opção de Projetos, as tarefas estão sendo dividas em processos no estilo Kanban. 
+
 ## Stack
 
 - BE: C# e .Net Core
