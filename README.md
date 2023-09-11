@@ -24,7 +24,7 @@
 
 ## C4 Model
 
-- [Acesse este caminho para ser redirecionado.](files/c4-model.md)
+- [Acesse este caminho para ser redirecionado ao C4 Model.](files/c4-model.md)
 
 
 ## Trade-off
@@ -54,9 +54,9 @@
 - Como o sistema tem a intenção de ser algo prático e simples, a manutenibilidade pode ser considerada no sistema de filas, dependendo da quantidade de usuários esperando uma partida e quantos se encaixariam na mesma filtragem.
   
 
-## Requisitos e casos de uso
+## Requisitos
 
-- Acesse este caminho para ser redirecionado
+- [Acesse este caminho para ser redirecionado aos requisitos.](files/requirements-nonrequirementsl.md)
 
 ## Stack
 
