@@ -24,7 +24,7 @@
 
 ## C4 Model
 
-- Link
+- [Acesse este caminho para ser redirecionado.](files/c4-model.md)
 
 
 ## Trade-off
@@ -56,7 +56,7 @@
 
 ## Requisitos e casos de uso
 
-- Link
+- Acesse este caminho para ser redirecionado
 
 ## Stack
 
