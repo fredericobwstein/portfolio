@@ -1,4 +1,4 @@
-# Requisitos e Casos de uso
+# Requisitos
 
 ## Requisitos funcionais
 **Organizar ou achar partida:**
